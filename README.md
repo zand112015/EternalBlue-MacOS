@@ -1,4 +1,4 @@
-# BIT-EternalBlue-for-macOS&Linux
+# EternalBlue-MacOS
 Exploit CVE-2017-7494 for Net Security course final Assignment. This would reveal the vulnerability of services that run in administrative priority on OS.
 
 This bug is workable on both macOS and Linux.
